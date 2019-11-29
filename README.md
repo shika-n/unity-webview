@@ -1,3 +1,15 @@
+# Forked Repository
+This repository is a fork from https://github.com/gree/unity-webview
+This fork is mainly to update deprecated functions and replacing them with their counterparts.
+I will try to keep the same structure so that the usage is still the same.
+Any changes that changed the structure or adding new functions will be explanined in [changes.md](changes.md).
+
+Changes made on this repo will be tested in Unity 2018.4.11f and Android 9.
+
+Below is the original README.md
+
+---
+
 # unity-webview
 
 unity-webview is a plugin for Unity 5 that overlays WebView components
