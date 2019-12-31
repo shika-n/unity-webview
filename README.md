@@ -6,6 +6,8 @@ Any changes that changed the structure or adding new functions will be explanine
 
 Changes made on this repo will be tested in Unity 2018.4.11f and Android 9.
 
+Currently, the changes are in the wegl_and_function_update branch.
+
 Below is the original README.md
 
 ---
